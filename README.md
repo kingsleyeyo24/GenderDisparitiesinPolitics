@@ -12,26 +12,27 @@ The primary data source for this analysis is the "genderandpolitics" file, compr
 
  - Microsoft SQL Server - Data Cleaning and Analysis
  - Tableau - Creating a dashboard
- - 
+   
  ### Results/Findings
-  1. Cross River, Akwa Ibom, Rivers, and Edo each had 7 women in the specified political positions, while Bayelsa had 6 and Delta had 5.
-  2. The total number of males in the aforementioned positions is 298, compared to only 39 females.
-  3. Women held the highest number of positions as Commissioners (20), followed by Chairpersons (11), Members of the House of Representatives (3), other high-ranking officials (2), Deputy Governors (2), and Senators (1). Notably, no women held the position of Governor.
-  4. The higher tendency for women to attain political positions more often through appointments rather than elections.
-  5. The percentages of female representation in total political positions for each state: Rivers = 10.94%, Edo = 15.56%, Delta = 7.14%, Cross River = 11.29%, Bayelsa = 18.18% and Akwa Ibom = 10.94%
-  6. The state with the most equitable representation is Bayelsa, with 18.18% of political positions held by females and the least being Delta, with 7.14.
-  7. Rivers leads with the highest literacy rate at 95.76%, followed by Edo at 90.53%, Cross River at 89.03%, Delta at 87.43%, Bayelsa at 86.83%, and Akwa Ibom at 78.84%.
-  8. In terms of GDP (in trillions of Naira), Rivers ranks highest with 7.96, followed by Akwa Ibom at 7.77, Delta at 6.19, Bayelsa at 4.63, Cross River at 4.07, and Edo at 3.99.
-  9. In terms of the percentage of GDP allocated to education, Cross River had the highest at 22.17%, followed by Delta at 18.42%, Bayelsa at 10.20%, Akwa Ibom at 8.22%, Edo at 7.70%, and Rivers at 5.31%.
+  1. The representation of women in political positions across the South-South states is generally low, with Bayelsa having the highest percentage of female representation at 18.18%, and Delta having the lowest at 7.14%
+  2. The percentages of female representation in total political positions for each state: Rivers = 10.94%, Edo = 15.56%, Delta = 7.14%, Cross River = 11.29%, Bayelsa = 18.18% and Akwa Ibom = 10.94%
+  3. There is a significant gender disparity in political positions, with a total of 298 males holding positions compared to only 39 females.
+  4. The most common political positions held by women are Commissioners (20), followed by Chairpersons (11), indicating that women are more likely to be appointed to positions rather than elected roles (e.g., Governor, where no women are present).
+  5. Rivers has the highest literacy rate (95.76%) among the states, which could be indicative of a positive correlation between literacy and economic development, as it also has the highest GDP (7.96 trillion Naira).
+  6. Cross River allocates the highest percentage of its GDP to education (22.17%), which reflects a strong commitment to improving educational outcomes.
+  7. The state with the most equitable representation is Bayelsa, with 18.18% of political positions held by females and the least being Delta, with 7.14.
+  8. Rivers leads with the highest literacy rate at 95.76%, followed by Edo at 90.53%, Cross River at 89.03%, Delta at 87.43%, Bayelsa at 86.83%, and Akwa Ibom at 78.84%.
+  9. In terms of GDP (in trillions of Naira), Rivers ranks highest with 7.96, followed by Akwa Ibom at 7.77, Delta at 6.19, Bayelsa at 4.63, Cross River at 4.07, and Edo at 3.99.
+  10. In terms of the percentage of GDP allocated to education, Cross River had the highest at 22.17%, followed by Delta at 18.42%, Bayelsa at 10.20%, Akwa Ibom at 8.22%, Edo at 7.70%, and Rivers at 5.31%. Cross River allocates the highest percentage of its GDP to education (22.17%), which reflects a strong commitment to improving educational outcomes.
+  11. States with higher literacy rates such as Rivers and Edo also have higher GDPs, suggesting a link between better education and stronger economies. However, the percentage of GDP allocated to education doesn’t always align with literacy rates, as Cross River leads in education funding but ranks lower in GDP.
+  12. Gender equity in politics appears to be disconnected from literacy rates and economic performance, with Bayelsa showing the highest percentage of female representation in politics despite having a lower literacy rate than Rivers.
 
       
  ### Recommedations
- - Since smartwatches had the highest sales while laptops had the lowest, consider expanding the range of smartwatches or related accessories.
- - Given that 12 states reported no orders, targeted marketing campaigns and localized promotions should be developed to reach potential customers in these regions.
- - Bayelsa's high number of negative feedbacks suggests there may be underlying issues with customer satisfaction. Investigate the cause of these complaints, whether related to product quality, customer service, or delivery issues.
- - Given the significant sales increase in May and the decline in February, consider planning targeted promotions during periods of low sales.
- - Stock up on high-demand products such as smartwatches and smartphones.
- - Abia State was the top location for orders, suggesting that regional marketing efforts were effective there. Extend successful marketing tactics in Abia to other regions with potential, like Ebonyi and Anambra.
+  1. States should focus on creating more opportunities for women to participate in elections, particularly for high-ranking political positions like Governor and Senator. This could involve introducing gender quotas.
+  2. States should support the education of girls, including scholarships and mentorship programs, to ensure that women have equal access to education and opportunities.
+  3. Akwa Ibom and Delta should prioritize educational reforms. These reforms could include increasing access to quality education, improving teacher training, and enhancing infrastructure, especially in rural areas.
+  4. States with lower education budget allocations, like Rivers, should consider increasing the percentage of GDP allocated to education.
 
 
 
